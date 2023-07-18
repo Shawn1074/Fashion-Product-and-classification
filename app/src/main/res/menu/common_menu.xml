@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Refresh"
+        android:icon="@drawable/ic_refresh"
+        android:id="@+id/menu_refresh"
+        app:showAsAction="ifRoom"/>
+    <item android:title="Upload Pictue "
+        android:id="@+id/menu_rofilePic"/>
+</menu>

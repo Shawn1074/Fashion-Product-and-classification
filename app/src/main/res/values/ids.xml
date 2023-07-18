@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="likeBtn" type="id" />
+    <item name="likeCnt" type="id" />
+    <item name="commentButtonId" type="id" />
+    <item name="textVw" type="id" />
+</resources>
